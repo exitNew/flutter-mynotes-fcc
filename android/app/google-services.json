@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221426507537",
+    "project_id": "com-efraim-mynotes-fcc",
+    "storage_bucket": "com-efraim-mynotes-fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221426507537:android:3c317adf629ac3aa1176b0",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBjrfMAT7OhKj1OQIRsJCPIY8YbSuDAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
